@@ -1,4 +1,4 @@
-# CMS_Synthetic_Data
+# Procedure Coverage Intelligence Engine
 ## Executive Summary
 
 This project will build a **CPT/HCPCS Procedure Intelligence POC** using publicly available CMS synthetic Medicare claims, CMS HCPCS data, ICD-10 data, Medicare coverage policies, and licensed AMA CPT data where available. The goal is to demonstrate how healthcare claims data, analytics, machine learning, and LLMs can be combined into a practical tool for investigating procedures, providers, utilization patterns, and coverage requirements.
